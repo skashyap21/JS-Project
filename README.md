@@ -12,5 +12,5 @@ A Color Flipper Project developed with Vanilla JavaScript, CSS3, responsive desi
 2)SkipTheDishes
 Creating Fully Responsive Website Project Using HTML & CSS
 
+![alt text](https://github.com/skashyap21/JS-Project/blob/main/SkipTheDishes/BGG.JPG)
 
-C:\Users\SUDHAKAR KASHYAP\Desktop\BGG.JPG
