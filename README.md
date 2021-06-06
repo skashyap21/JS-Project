@@ -10,4 +10,4 @@ https://user-images.githubusercontent.com/60549871/100478514-76ebf880-30fc-11eb-
 
 2)SkipTheDishes
 Creating Fully Responsive Website Project Using HTML & CSS
-"C:\Users\SUDHAKAR KASHYAP\Desktop\BGG.JPG"
+C:\Users\SUDHAKAR KASHYAP\Desktop\BGG.JPG
